@@ -71,6 +71,7 @@ body {
   text-align: center;
   font-size: 20px;
   font-weight: bold;
+  font-family: "solaiman-lipi";
   position: relative;
   display: block;
   border:  px solid Yellow;
@@ -85,6 +86,7 @@ body {
   color: Yellow;
   padding-left: 2px;
   font-size: 15px;
+  font-family: "solaiman-lipi";
   font-style: itali;
 }
 
