@@ -290,13 +290,13 @@ body {
   }
 
   #advance-table td.sticky-1 {
-    background-color: yello;
+    background-color: yellow;
     position: sticky;
     left: 0;
   }
 
   #advance-table td.sticky-2 {
-    background-color: yello;
+    background-color: yellow;
     position: sticky;
     left: 150px;
   }
