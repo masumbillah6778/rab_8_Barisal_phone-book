@@ -267,13 +267,17 @@ body {
   }
 
   #advance-table th.sticky-1 {
+    background-color: yellow;
     position: sticky;
     left: 0;
+    z-index: 1;
   }
 
   #advance-table th.sticky-2 {
+    background-color: yellow;
     position: sticky;
     left: 150;
+    z-index: 1;
   }
   
   #advance-table tbody td {
