@@ -298,7 +298,7 @@ body {
   #advance-table td.sticky-2 {
     background-color: yellow;
     position: sticky;
-    left: 150px;
+    left: 100px;
   }
 
 }
