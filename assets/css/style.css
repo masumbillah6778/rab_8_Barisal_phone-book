@@ -267,14 +267,14 @@ body {
   }
 
   #advance-table th.sticky-1 {
-    background-color: yellow;
+    background-color: yello;
     position: sticky;
     left: 0;
     z-index: 1;
   }
 
   #advance-table th.sticky-2 {
-    background-color: yellow;
+    background-color: yello;
     position: sticky;
     left: 150;
     z-index: 1;
@@ -285,12 +285,18 @@ body {
     font-weight: bold;
   }
 
+  #advance-table tbody td:nth-child(4), td:nth-child(5) {
+    background-color: yellow;
+  }
+
   #advance-table td.sticky-1 {
+    background-color: yello;
     position: sticky;
     left: 0;
   }
 
   #advance-table td.sticky-2 {
+    background-color: yello;
     position: sticky;
     left: 150;
   }
