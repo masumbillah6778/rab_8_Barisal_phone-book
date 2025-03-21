@@ -276,7 +276,7 @@ body {
   #advance-table th.sticky-2 {
     background-color: yello;
     position: sticky;
-    left: 150;
+    left: 150px;
     z-index: 1;
   }
   
@@ -298,7 +298,7 @@ body {
   #advance-table td.sticky-2 {
     background-color: yello;
     position: sticky;
-    left: 150;
+    left: 150px;
   }
 
 }
