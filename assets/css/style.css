@@ -202,20 +202,10 @@ body {
 	content: counter(row, bengali) '. ';
 }
 
-#advance-table td.sticky-1 {
-  position: sticky;
-  left: 0;
-}
-
-#advance-table td.sticky-2 {
-  position: sticky;
-  left: 150;
-}
-
 #advance-table td en {
   color: red;
   font-size: 15px;
-	font-family: "times";
+  font-family: "times";
   font-weight: bold;
 }
 
@@ -273,11 +263,32 @@ body {
   #advance-table thead th {
     width: 100px;
     min-width: 100px;
-	  font-size: 7px;
+    font-size: 7px;
+  }
+
+  #advance-table th.sticky-1 {
+    position: sticky;
+    left: 0;
+  }
+
+  #advance-table th.sticky-2 {
+    position: sticky;
+    left: 150;
   }
   
   #advance-table tbody td {
-	  font-size: 7px;
-	  font-weight: bold;
+    font-size: 7px;
+    font-weight: bold;
   }
+
+  #advance-table td.sticky-1 {
+    position: sticky;
+    left: 0;
+  }
+
+  #advance-table td.sticky-2 {
+    position: sticky;
+    left: 150;
+  }
+
 }
