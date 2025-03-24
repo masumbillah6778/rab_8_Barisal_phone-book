@@ -202,6 +202,12 @@ body {
 	content: counter(row, bengali) '. ';
 }
 
+#advance-table td .unit {
+  color: red;
+  font-size: 15px;
+  font-weight: bold;
+}
+
 #advance-table td en {
   color: red;
   font-size: 15px;
